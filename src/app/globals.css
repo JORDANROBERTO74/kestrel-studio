@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+@theme inline {
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "IBM Plex Mono", monospace;
+
+  /* Kestrel Tokens */
+  --color-paper: #F6F3EC;
+  --color-ink: #15150F;
+  --color-gray: #5F5E56;
+  --color-line: #DDD7C8;
+  --color-accent: #1E3FFF;
+}
+
+@layer base {
+  body {
+    @apply bg-paper text-ink font-body;
+  }
+}
