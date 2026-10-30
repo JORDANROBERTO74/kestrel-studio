@@ -77,4 +77,4 @@ Verified with clean TypeScript compilation, lint passes, and zero browser consol
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Proprietary, all rights reserved. See [LICENSE](LICENSE).

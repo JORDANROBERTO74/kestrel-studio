@@ -17,3 +17,8 @@ Rebuild of a v0-derived landing page (`blinder`). Structure, navigation patterns
 ## Deployment
 - Repository: https://github.com/JORDANROBERTO74/kestrel-studio
 - Live: https://kestrel-studio.vercel.app
+
+## License note
+
+This repository contains derivative work. The license covers only the original
+contributions of the copyright holder. See [LICENSE](../LICENSE).
